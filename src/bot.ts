@@ -171,7 +171,7 @@ const introductionMessage = `Hello! I'm a Telegram bot for Mitya.
 I'm powered by Cyclic, the next-generation serverless computing platform.
 
 <b>Commands</b>
-/yo - Be greeted by me
+/yo - Be greeted by the bot
 /effect [text] - Show a keyboard to apply text effects to [text]`;
 
 const replyWithIntro = (ctx: any) =>
