@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "tsc": "tsc",
     "build": "tsc",
     "start": "node dist/bot.js",
     "dev": "env-cmd ts-node-dev src/bot.ts",
